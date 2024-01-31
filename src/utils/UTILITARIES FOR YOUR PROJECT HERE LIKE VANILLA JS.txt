@@ -1,1 +1,0 @@
-vanilla javascripts, components that you can't use in a regular react env.
